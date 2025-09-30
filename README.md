@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Göktuğ Mert Özdoğan  
 
-<!--
-**gokmeroz/gokmeroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** |  
+📊 Passionate about **finance, web technologies, and AI-driven applications**  
+⚡ Building products that merge **technology + personal growth + investing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Computer Engineering graduate (BAU)  
+- 🏦 Currently improving as a **Full-Stack Web Developer**  
+- 🔧 Focused on **C# / .NET, Node.js, React, React Native, SQL, MongoDB**  
+- 💡 Entrepreneurial mindset → working on **Nummora (personal finance app)** & other side projects  
+- 🥋 Into **MMA, and soccer**  
+- 💛 Die-hard **Fenerbahçe** fan  
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**  
+- Backend: `C#`, `.NET`, `Node.js`, `Express`, `Python`  
+- Frontend: `React`, `React Native`, `Angular`, `TypeScript`, `JavaScript`  
+- Databases: `SQL Server`, `MongoDB`, `PostgreSQL`  
+
+**Tools & Platforms**  
+- 🐳 Docker • ☁️ AWS & Azure • 🗄️ Azure Data Studio • 🔍 VSCode / Visual Studio  
+- ⚙️ Git & GitHub • 📦 NPM / Yarn • 🎨 TailwindCSS  
+
+---
+
+## 📌 Featured Projects
+- 🔹 [**Nummora**](https://github.com/gokmeroz/nummora) – Personal finance tracking app (Node.js + React Native)    
+
+---
+
+## 📈 GitHub Analytics
+
+![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Exploring
+- 📊 Building **AI-powered fintech tools**  
+- 🌐 Expanding **React Native** apps  
+- ☁️ Mastering **Cloud Infrastructure (AWS, Azure)**  
+- 📈 Sharpening **Data Structures & Algorithms** for tech interviews  
+
+---
+
+## 💬 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)  
+- 📧 Email: **mertozdogan0@gmail.com**  
+- 🐦 [Twitter/X](https://x.com/gokmeroz_dev) (if you want)  
+- 🌍 Personal Website (coming soon...)  
+
+---
+
+⭐️ *“Code. Build. Invest. Repeat.”*  
