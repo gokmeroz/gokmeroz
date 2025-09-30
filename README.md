@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [**Nummora**](https://github.com/gokmeroz/nummora) – Personal finance tracking app (Node.js + React Native)    
+- 🔹 [**Nummora**](https://github.com/gokmeroz/nummora) – Personal finance tracking app (Node.js + React.js)    
 
 ---
 
