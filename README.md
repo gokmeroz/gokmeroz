@@ -11,7 +11,7 @@
 - 🏦 Currently improving as a **Full-Stack Web Developer**  
 - 🔧 Focused on **C# / .NET, Node.js, React, React Native, SQL, MongoDB**  
 - 💡 Entrepreneurial mindset → working on **Nummora (personal finance app)** & other side projects  
-- 🥋 Into **MMA, and soccer**  
+- 🥋 Into **MMA and soccer**  
 - 💛 Die-hard **Fenerbahçe** fan  
 
 ---
