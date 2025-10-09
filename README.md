@@ -52,7 +52,7 @@
 ## 💬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)  
 - 📧 **goekmeroz@gmail.com**  
-- 🐦 (https://x.com/gokmeroz_dev)
+- 🐦 [X](https://x.com/gokmeroz_dev)
 - 🌍 Personal Website (coming soon...)  
 
 ---
