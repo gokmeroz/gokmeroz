@@ -53,7 +53,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)  
 - 📧 **goekmeroz@gmail.com**  
 - 🐦 [X](https://x.com/gokmeroz_dev)
-- 🌍 **gokmeroz.com**
+- 🌍 **https://www.gokmeroz.com**
 
 ---
 
