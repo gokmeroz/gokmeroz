@@ -51,8 +51,8 @@
 
 ## 💬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)  
-- 📧 Email: **goekmeroz@gmail.com**  
-- 🐦 [Twitter/X](https://x.com/gokmeroz_dev)
+- 📧 **goekmeroz@gmail.com**  
+- 🐦 (https://x.com/gokmeroz_dev)
 - 🌍 Personal Website (coming soon...)  
 
 ---
