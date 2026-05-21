@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Göktuğ Mert Özdoğan  
 
-💻 **Full-Stack Developer** |  
+💻 **Software Engineer** |  
 📊 Passionate about **finance, web technologies, and AI-driven applications**  
 ⚡ Building products that merge **technology + personal growth + investing**
 
