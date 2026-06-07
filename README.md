@@ -30,7 +30,8 @@
 ---
 
 ## 📌 Featured Projects
-- 🔹 [**Nummoria**](https://github.com/gokmeroz/nummora) – AI Powered Financial Advisor (Node.js + React.js)    
+- 🔹 [**Nummoria**](https://github.com/gokmeroz/nummora) – AI Powered Financial Advisor (Node.js + React.js)
+- 🕸️ [**Spider-Man Comics Recommender**](https://github.com/gokmeroz/spiderman-comics-recommender) - ML-powered recommendation system exploring content-based filtering, user profiles, and hybrid ranking  
 
 ---
 
