@@ -52,6 +52,8 @@
 
 * 🤖 [**Jobpilot — Autopilot for Job Applications**](https://github.com/gokmeroz/jobpilot-autopilot-for-job-applications)
   Job-search automation system that discovers fresh roles, scores them against a resume, tracks applications in Google Sheets, and generates reports.
+* ⚡ [**RepoPulse**](https://github.com/gokmeroz/RepoPulse)
+  Open-source, event-driven GitHub repository recommender that analyzes developers’ interests and learning goals using FastAPI, RabbitMQ, Docker, PostgreSQL, NumPy, and PyTorch.
 
 ---
 
