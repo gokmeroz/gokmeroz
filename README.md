@@ -91,7 +91,7 @@
 
 ## 🌱 Currently Focused On
 
-* 🔬 Developing the **Reader Agent** and broader agent architecture for **ReproBot**
+* 🔬 Building **reliable, scalable, and maintainable software systems**
 * 🤖 Strengthening foundations in **Machine Learning, AI Engineering, and agentic systems**
 * 🏗️ Designing reliable **backend services, APIs, data models, and distributed workflows**
 * 📊 Improving **AI-powered fintech and recommendation products**
