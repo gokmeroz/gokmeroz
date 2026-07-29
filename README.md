@@ -46,9 +46,8 @@
 
 ## 📌 Featured Projects
 
-* 🔹 [**Nummoria**](https://github.com/gokmeroz/nummoria) 
-  AI-powered personal finance platform independently designed and developed with Node.js, React, React Native, MongoDB, and AI-driven behavioral financial insights. Tested with more than 1,000 users throughout its development lifecycle.
-  *🌐 [**Nummoria Live**](http://nummoria.com/)*
+* ❇️ [**Nummoria**](https://github.com/gokmeroz/nummoria) — [**Live Platform**](https://nummoria.com)  
+  Independently designed and developed AI-powered personal finance platform that transforms financial activity into personalized, actionable insights. Built with Node.js, React, React Native, and MongoDB, and tested with more than 1,000 users.
 
 * 🕸️ [**Spider-Man Comics Recommender**](https://github.com/gokmeroz/spiderman-comics-recommender)
   Machine-learning recommendation system exploring content-based filtering, user preference modeling, similarity scoring, and hybrid ranking approaches across the Spider-Verse.
