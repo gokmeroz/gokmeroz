@@ -74,9 +74,18 @@
 
 ## 📈 GitHub Analytics
 
-![Mert's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokmeroz\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokmeroz\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Mert's GitHub statistics"
+  />
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Mert's most used languages"
+  />
+</p>
 
 ---
 
