@@ -1,113 +1,301 @@
-# 👋 Hi, I'm Göktuğ Mert Özdoğan
 
-💻 **Software Engineer** building backend-driven, AI-integrated products
-📊 Interested in **AI engineering, fintech, recommendation systems, and scalable software architecture**
-⚡ Turning technical ideas into practical products—from system design and APIs to deployment and user experience
+<div align="center">
+
+# 🕹️ GÖKTUĞ MERT ÖZDOĞAN
+
+### `SOFTWARE ENGINEER` • `AI SYSTEMS BUILDER` • `BACKEND DEVELOPER`
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=00A86B&center=true&vCenter=true&width=850&height=60&lines=BUILD+USEFUL+THINGS;LEARN+DEEPLY;SHIP+RELENTLESSLY;LEVEL+UP+EVERY+DAY" alt="Retro typing animation" />
+
+💻 **Software Engineer** building backend-driven products, AI systems, and autonomous agent workflows  
+🧠 Interested in **AI engineering, multi-agent systems, machine learning, fintech, and scalable software architecture**  
+⚡ From designing APIs and distributed systems to building agents that reason, execute, evaluate, and improve their work
+
+<br>
+
+`[ SYSTEM ONLINE ]` ` [ AGENTS ACTIVE ]` `[ ALWAYS BUILDING ]`
+
+</div>
 
 ---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 01 // PLAYER PROFILE           ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 🚀 About Me
 
-* 🎓 Computer Engineering graduate from **Bahçeşehir University**
-* 💻 Software Engineer focused on **backend systems, full-stack development, and applied AI**
-* 🔬 AI Research Contributor at **inzva AI Projects #10**, collaborating on **ReproBot**, an agentic system for scientific reproducibility
-* 🧠 Expanding deeper into **Machine Learning, AI Engineering, LLM agents, and recommendation systems**
-* 🔧 Main stack: **C# / .NET, Node.js, TypeScript, React, React Native, Python, SQL, and MongoDB**
-* 💡 Building **Nummoria**, an AI-powered personal finance platform that transforms financial data into actionable behavioral insights
-* 🏗️ Interested in **system design, high-throughput APIs, data modeling, caching, event-driven systems, and product architecture**
-* 🥋 Into **MMA, football, comics, finance, and building useful things**
-* 💛 Die-hard **Fenerbahçe** fan
+- 🎓 Computer Engineering graduate from **Bahçeşehir University**
+- 💻 Software Engineer focused on **backend engineering, full-stack development, and applied AI**
+- 🔬 **AI Research Contributor at inzva AI Projects #10**, working on **ReproBot**, a multi-agent system for scientific reproducibility
+- 🎨 Developing **ComArtist**, an agentic AI system designed to transform story concepts into complete comic chapters
+- 🧠 Exploring **LLM agents, multimodal AI, agent orchestration, machine learning, and evaluation-driven AI systems**
+- 🔧 Main stack: **Python, C#/.NET, Node.js, TypeScript, React, React Native, SQL, and MongoDB**
+- 📊 Creator of **Nummoria**, an AI-powered personal finance platform tested with 1,000+ users
+- 🏗️ Interested in **distributed systems, high-throughput APIs, event-driven architecture, caching, and reliable infrastructure**
+- 🥋 Into **MMA, football, comics, finance, and building useful things**
+- 💛 Die-hard **Fenerbahçe** fan
 
 ---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 02 // TECH INVENTORY           ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 🛠️ Tech Stack
 
-### Languages & Backend
+### ⚙️ Languages & Backend
 
-`C#` • `.NET` • `ASP.NET Core` • `Node.js` • `Express.js` • `Python` • `Java` • `FastAPI` • `REST APIs`
+`Python` • `C#` • `.NET` • `ASP.NET Core` • `Node.js` • `Express.js` • `Java` • `FastAPI` • `REST APIs`
 
-### Frontend & Mobile
+### 🧩 Frontend & Mobile
 
-`React` • `React Native` • `Angular` • `TypeScript` • `JavaScript` • `Tailwind CSS`
+`React` • `React Native` • `Angular` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `Streamlit`
 
-### Databases
+### 🗄️ Databases & Messaging
 
-`SQL Server` • `MongoDB` • `PostgreSQL` • `Mongoose`
+`SQL Server` • `MongoDB` • `PostgreSQL` • `Mongoose` • `Redis` • `RabbitMQ` • `BullMQ`
 
-### AI / ML
+### 🤖 AI / ML & Agentic Systems
 
-`PyTorch` • `Hugging Face` • `scikit-learn` • `Pandas` • `NumPy` • `XGBoost` • `LLM Agents` • `Recommendation Systems` • `Structured Extraction` • `LLM-as-a-Judge`
+`PyTorch` • `Hugging Face` • `LangGraph` • `LangChain` • `scikit-learn` • `Pandas` • `NumPy` • `XGBoost` • `LLM Agents` • `Multi-Agent Orchestration` • `Vision-Language Models` • `RAG` • `Recommendation Systems` • `Structured Extraction` • `LLM-as-a-Judge`
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 
-`Git` • `GitHub` • `Docker` • `AWS` • `Azure` • `Linux` • `CI/CD` • `RabbitMQ` • `Vercel` • `Railway` • `Postman` • `Swagger`
+`Git` • `GitHub` • `Docker` • `AWS` • `Azure` • `Linux` • `CI/CD` • `Vercel` • `Railway` • `Postman` • `Swagger` • `uv`
 
 ---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 03 // FEATURED QUESTS          ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 📌 Featured Projects
 
-* ❇️ [**Nummoria**](https://github.com/gokmeroz/nummoria) — [**Live Platform**](https://nummoria.com)  
-  Independently designed and developed AI-powered personal finance platform that transforms financial activity into personalized, actionable insights. Built with Node.js, React, React Native, and MongoDB, and tested with more than 1,000 users.
+### 🔬 [ReproBot — Agentic AI for Scientific Reproducibility](https://github.com/EngincanVaran/ReproBot)
 
-* 🕸️ [**Spider-Man Comics Recommender**](https://github.com/gokmeroz/spiderman-comics-recommender)
-  Machine-learning recommendation system exploring content-based filtering, user preference modeling, similarity scoring, and hybrid ranking approaches across the Spider-Verse.
+**AI Research Contributor · inzva AI Projects #10**
 
-* 🤖 [**JobPilot — Autopilot for Job Applications**](https://github.com/gokmeroz/jobpilot-autopilot-for-job-applications)
-  Automated job-discovery pipeline that collects recently published roles, evaluates resume compatibility, applies eligibility gates, tracks applications, and generates structured reports.
+`[ RESEARCH QUEST ]` `[ MULTI-AGENT SYSTEM ]` `[ IN PROGRESS ]`
 
-* ⚡ [**RepoPulse**](https://github.com/gokmeroz/RepoPulse)
-  Open-source, event-driven GitHub repository recommender that analyzes developers' interests and learning goals using FastAPI, RabbitMQ, Docker, PostgreSQL, NumPy, and PyTorch.
+A multi-agent research system designed to reproduce and validate machine-learning experiments from scientific publications.
+
+ReproBot coordinates four specialized agents through an orchestrated workflow:
+
+- **Reader Agent:** Analyzes research papers, extracts experimental configurations, and produces structured specifications using document-processing tools, LLMs, and vision-language models.
+- **Coder Agent:** Translates extracted methodologies into executable machine-learning experiments.
+- **Runner Agent:** Executes experiments in isolated Docker environments and collects logs, metrics, and artifacts.
+- **Critic Agent:** Evaluates experimental results against published claims, identifies reproducibility gaps, and provides feedback for iterative refinement.
+
+**Current focus:** Critic–Coder feedback loops, claim verification, reproducibility evaluation, and improving the reliability of agent-generated experiments.
+
+**Technologies:** `Python` `LangGraph` `LangChain` `Docker` `PyTorch` `Hugging Face` `LLMs` `VLMs` `Structured Extraction`
 
 ---
+
+### 🎭 ComArtist — Agentic AI Comic Generation
+
+**Independent Project · In Development**
+
+`[ CREATIVE QUEST ]` `[ MULTIMODAL AI ]` `[ IN DEVELOPMENT ]`
+
+An ambitious multi-agent AI system designed to transform a high-level story idea into a complete, visually coherent comic chapter.
+
+Rather than treating comic generation as a single image-generation task, ComArtist approaches it as an **autonomous creative production workflow**, inspired by the specialized roles involved in professional comic publishing.
+
+The planned architecture includes:
+
+- **Story & Narrative Agents:** Develop plots, character arcs, dialogue, and narrative structure.
+- **Script & Panel Planning Agents:** Translate stories into panel-by-panel scripts, layouts, compositions, and visual directions.
+- **Visual Generation Agents:** Generate comic artwork while maintaining character identities, stylistic consistency, and scene continuity.
+- **Critic & Revision Agents:** Use multimodal evaluation to identify narrative and visual inconsistencies and guide iterative improvements.
+- **Lettering & Layout Agents:** Assemble dialogue, speech balloons, artwork, and panel arrangements into comic pages.
+- **Continuity & Evaluation Systems:** Maintain persistent lore and character context while assessing chapter-level coherence and quality.
+
+**Engineering focus:** Multi-agent orchestration, multimodal reasoning, long-term memory, structured inter-agent communication, iterative refinement, and autonomous quality evaluation.
+
+**Planned technologies:** `Python` `LangGraph` `Hugging Face` `LLMs` `Vision-Language Models` `Image Generation` `Streamlit`
+
+*The goal: an AI-powered comic production pipeline where specialized agents collaborate like a creative team.*
+
+---
+
+### ❇️ [Nummoria — AI-Powered Personal Finance](https://github.com/gokmeroz/nummoria)
+
+**Independent Project · [Live Platform](https://nummoria.com)**
+
+`[ FINTECH QUEST ]` `[ FULL-STACK ]` `[ LIVE PLATFORM ]`
+
+Designed and developed a full-stack personal finance platform that transforms financial activity into personalized, actionable insights.
+
+- Built web and mobile experiences with React and React Native.
+- Developed backend APIs and authentication workflows using Node.js and MongoDB.
+- Integrated AI-powered financial assistance and receipt-processing capabilities.
+- Implemented background processing and asynchronous workflows using Redis and BullMQ.
+- Tested the platform with **more than 1,000 users**.
+- Exploring a stronger ML-driven foundation for transaction understanding, categorization, and financial behavior modeling.
+
+**Technologies:** `Node.js` `Express.js` `React` `React Native` `MongoDB` `Redis` `BullMQ` `LLM APIs`
+
+---
+
+### 🕸️ [Spider-Man Comics Recommender](https://github.com/gokmeroz/spiderman-comics-recommender)
+
+`[ MACHINE LEARNING QUEST ]` `[ SPIDER-VERSE ]`
+
+A machine-learning recommendation project exploring content-based filtering, user preference modeling, similarity scoring, and hybrid ranking approaches across Spider-Man comics.
+
+**Focus:** Recommendation systems, feature engineering, information retrieval, and personalized ranking.
+
+---
+
+### 🤖 [JobPilot — Autopilot for Job Applications](https://github.com/gokmeroz/jobpilot-autopilot-for-job-applications)
+
+`[ AUTOMATION QUEST ]` `[ API INTEGRATION ]`
+
+An automated job-discovery pipeline designed to collect recently published roles, evaluate resume compatibility, apply eligibility filters, track applications, and generate structured reports.
+
+**Focus:** Workflow automation, API integration, data processing, and job-matching logic.
+
+---
+
+### ⚡ [RepoPulse](https://github.com/gokmeroz/RepoPulse)
+
+`[ BACKEND QUEST ]` `[ EVENT-DRIVEN ]`
+
+An open-source, event-driven GitHub repository recommender that analyzes developers' interests and learning goals.
+
+**Technologies:** `FastAPI` `RabbitMQ` `Docker` `PostgreSQL` `NumPy` `PyTorch`
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 04 // ALLIES & RESEARCH        ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 🤝 Collaborations & Research
 
-* 🔬 **[ReproBot — Agentic AI for Scientific Reproducibility](https://github.com/EngincanVaran/ReproBot)**
-  **AI Research Contributor · inzva AI Projects #10**
-  Collaborating on a multi-agent system that interprets machine-learning papers, generates experimental code, executes workflows in isolated Docker environments, and verifies reproduced results against published claims. Contributing to the Reader, Coder, Runner, and Critic architecture using Python, vision-language models, PyTorch, Hugging Face, and structured shared memory.
+### 🔬 [ReproBot — inzva AI Projects #10](https://github.com/EngincanVaran/ReproBot)
 
-* 👁️ **[Eyehub — Dyslexia Detection Mobile Application](https://github.com/eyehub2/eyehub_web)**
-  **Backend Developer · TÜBİTAK Project 122E085**
-  Contributed to the backend of a research-based mobile application developed to support dyslexia detection in children. Built server-side functionality, database integrations, and cloud components using Node.js, JavaScript, MongoDB, AWS EC2, and AWS Lambda as part of an interdisciplinary project team.
+**AI Research Contributor**
+
+Collaborating on research into agentic scientific reproducibility, including paper interpretation, structured methodology extraction, automated experiment execution, and evaluation against published results.
+
+The project explores the challenges of building AI systems that do more than generate plausible outputs: they must execute experiments, inspect evidence, identify failures, and iteratively improve their solutions.
 
 ---
+
+### 👁️ [Eyehub — Dyslexia Detection Mobile Application](https://github.com/eyehub2/eyehub_web)
+
+**Backend Developer · TÜBİTAK Project 122E085**
+
+Contributed to the backend of a research-based mobile application developed to support dyslexia detection in children.
+
+Built server-side functionality, database integrations, and cloud components using Node.js, JavaScript, MongoDB, AWS EC2, and AWS Lambda as part of an interdisciplinary research team.
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 05 // PLAYER STATISTICS        ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Mert's GitHub statistics"
-  />
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Mert's most used languages"
-  />
-</p>
+<div align="center">
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true" alt="Mert's GitHub statistics" />
+
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mert's most used languages" />
+
+</div>
 
 ---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 06 // ACTIVE MISSIONS          ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
 
 ## 🌱 Currently Focused On
 
-* 🔬 Building **reliable, scalable, and maintainable software systems**
-* 🤖 Strengthening foundations in **Machine Learning, AI Engineering, and agentic systems**
-* 🏗️ Designing reliable **backend services, APIs, data models, and distributed workflows**
-* 📊 Improving **AI-powered fintech and recommendation products**
-* 🌐 Shipping full-stack and mobile products with **React, React Native, Node.js, and .NET**
-* ☁️ Deepening experience with **Docker, cloud infrastructure, CI/CD, and production deployment**
-* 📈 Practicing **Data Structures, Algorithms, and System Design**
+- 🔬 **ReproBot:** Developing and refining agentic scientific reproducibility workflows, with an emphasis on evaluation, verification, and Critic–Coder iteration.
+- 🎭 **ComArtist:** Designing a multimodal agent architecture for autonomous comic production, creative collaboration, and visual consistency.
+- 🧠 **AI/ML:** Deepening knowledge of neural networks, transformers, LLM systems, and practical machine-learning engineering.
+- ⚙️ **Backend Engineering:** Designing maintainable APIs, distributed workflows, scalable data models, and event-driven systems.
+- 📊 **Nummoria:** Exploring ML-based transaction understanding, intelligent categorization, and personalized financial insights.
+- 🐳 **Infrastructure:** Strengthening Docker, cloud deployment, observability, CI/CD, and production reliability skills.
+- 📈 **Computer Science:** Consistently practicing data structures, algorithms, and system design.
 
 ---
 
-## 💬 Let’s Connect
+<div align="center">
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)
-* 📧 **[goekmeroz@gmail.com](mailto:goekmeroz@gmail.com)**
-* 🐦 [X](https://x.com/gokmeroz_dev)
-* 🌍 **[gokmeroz.com](https://www.gokmeroz.com)**
+```text
+╔══════════════════════════════════════════════════╗
+║             LEVEL 07 // COMMUNICATION HUB        ║
+╚══════════════════════════════════════════════════╝
+```
+
+</div>
+
+## 💬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)
+- 📧 **[goekmeroz@gmail.com](mailto:goekmeroz@gmail.com)**
+- 🐦 [X](https://x.com/gokmeroz_dev)
+- 🌍 **[gokmeroz.com](https://www.gokmeroz.com)**
 
 ---
 
-⭐️ *Build useful things. Learn deeply. Ship relentlessly.*
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║                  GAME CONTINUES                  ║
+║                                                  ║
+║              BUILD. LEARN. SHIP.                 ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+### ⭐ Build useful things. Learn deeply. Ship relentlessly.
+
+`[ GAME STATUS: GRINDING ]`
+
+</div>
