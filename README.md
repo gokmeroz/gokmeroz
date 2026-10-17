@@ -1,16 +1,18 @@
 <div align="center">
 
-<a href="https://www.gokmeroz.com"><img src="assets/hero.png" width="100%" alt="Pixel-art banner: Göktuğ Mert Özdoğan — Software Engineer and AI Systems Builder" /></a>
+# 👾 Göktuğ Mert Özdoğan
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1100&color=22C55E&center=true&vCenter=true&width=800&height=46&lines=SOFTWARE+ENGINEER;BACKEND+%2B+AI+SYSTEMS;BUILD.+LEARN.+SHIP." alt="Animated pixel-style role titles" />
 
 **Software Engineer** building backend-driven products, AI systems, and autonomous agent workflows  
 Interested in **AI engineering, multi-agent systems, machine learning, fintech, and scalable software architecture**  
 From designing APIs and distributed systems to building agents that **reason, execute, evaluate, and improve** their work.
 
-[**`> ENTER PORTFOLIO`**](https://www.gokmeroz.com) · [**`> VIEW PROJECTS`**](#-featured-projects) · [**`> CONNECT`**](#-lets-connect)
+[**`PORTFOLIO ↗`**](https://www.gokmeroz.com) · [**`PROJECTS ↓`**](#-featured-projects) · [**`CONTACT ↗`**](#-lets-connect)
 
 </div>
 
-<img src="assets/section-01.png" width="100%" alt="Level 01: Player Profile" />
+---
 
 ## 🚀 About Me
 
@@ -25,7 +27,7 @@ From designing APIs and distributed systems to building agents that **reason, ex
 - 🥋 Into **MMA, football, comics, finance, and building useful things**
 - 💛 Die-hard **Fenerbahçe** fan
 
-<img src="assets/section-02.png" width="100%" alt="Level 02: Tech Inventory" />
+---
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +46,7 @@ From designing APIs and distributed systems to building agents that **reason, ex
 **`05 / TOOLS & PLATFORMS`**  
 `Git` • `GitHub` • `Docker` • `AWS` • `Azure` • `Linux` • `CI/CD` • `Vercel` • `Railway` • `Postman` • `Swagger` • `uv`
 
-<img src="assets/section-03.png" width="100%" alt="Level 03: Featured Projects" />
+---
 
 ## 📌 Featured Projects
 
@@ -140,7 +142,7 @@ An open-source, event-driven GitHub repository recommender that analyzes develop
 
 **Technologies:** `FastAPI` `RabbitMQ` `Docker` `PostgreSQL` `NumPy` `PyTorch`
 
-<img src="assets/section-04.png" width="100%" alt="Level 04: Collaborations and Research" />
+---
 
 ## 🤝 Collaborations & Research
 
@@ -160,7 +162,7 @@ Contributed to the backend of a research-based mobile application developed to s
 
 Built server-side functionality, database integrations, and cloud components using Node.js, JavaScript, MongoDB, AWS EC2, and AWS Lambda as part of an interdisciplinary research team.
 
-<img src="assets/section-05.png" width="100%" alt="Level 05: Player Stats" />
+---
 
 ## 📈 GitHub Analytics
 
@@ -169,7 +171,7 @@ Built server-side functionality, database integrations, and cloud components usi
   <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mert's most used languages" />
 </div>
 
-<img src="assets/section-06.png" width="100%" alt="Level 06: Current Quests" />
+---
 
 ## 🌱 Currently Focused On
 
@@ -181,7 +183,7 @@ Built server-side functionality, database integrations, and cloud components usi
 - 🐳 **Infrastructure:** Strengthening Docker, cloud deployment, observability, CI/CD, and production reliability skills.
 - 📈 **Computer Science:** Consistently practicing data structures, algorithms, and system design.
 
-<img src="assets/section-07.png" width="100%" alt="Level 07: Communication Hub" />
+---
 
 ## 💬 Let's Connect
 
@@ -190,10 +192,12 @@ Built server-side functionality, database integrations, and cloud components usi
 - 🐦 [X](https://x.com/gokmeroz_dev)
 - 🌍 **[gokmeroz.com](https://www.gokmeroz.com)**
 
+---
+
 <div align="center">
 
-<img src="assets/footer.png" width="100%" alt="Build useful things. Learn deeply. Ship relentlessly." />
+`[ GAME STATUS: BUILDING ]`
 
-`[ GAME STATUS: GRINDING ]` · `PRESS START TO BUILD`
+**Build useful things. Learn deeply. Ship relentlessly.**
 
 </div>
