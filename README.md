@@ -1,33 +1,16 @@
-
 <div align="center">
 
-# 🕹️ GÖKTUĞ MERT ÖZDOĞAN
+<a href="https://www.gokmeroz.com"><img src="assets/hero.png" width="100%" alt="Pixel-art banner: Göktuğ Mert Özdoğan — Software Engineer and AI Systems Builder" /></a>
 
-### `SOFTWARE ENGINEER` • `AI SYSTEMS BUILDER` • `BACKEND DEVELOPER`
+**Software Engineer** building backend-driven products, AI systems, and autonomous agent workflows  
+Interested in **AI engineering, multi-agent systems, machine learning, fintech, and scalable software architecture**  
+From designing APIs and distributed systems to building agents that **reason, execute, evaluate, and improve** their work.
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=1000&color=00A86B&center=true&vCenter=true&width=850&height=60&lines=BUILD+USEFUL+THINGS;LEARN+DEEPLY;SHIP+RELENTLESSLY;LEVEL+UP+EVERY+DAY" alt="Retro typing animation" />
-
-💻 **Software Engineer** building backend-driven products, AI systems, and autonomous agent workflows  
-🧠 Interested in **AI engineering, multi-agent systems, machine learning, fintech, and scalable software architecture**  
-⚡ From designing APIs and distributed systems to building agents that reason, execute, evaluate, and improve their work
-
-<br>
-
-`[ SYSTEM ONLINE ]` ` [ AGENTS ACTIVE ]` `[ ALWAYS BUILDING ]`
+[**`> ENTER PORTFOLIO`**](https://www.gokmeroz.com) · [**`> VIEW PROJECTS`**](#-featured-projects) · [**`> CONNECT`**](#-lets-connect)
 
 </div>
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 01 // PLAYER PROFILE           ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-01.png" width="100%" alt="Level 01: Player Profile" />
 
 ## 🚀 About Me
 
@@ -42,59 +25,33 @@
 - 🥋 Into **MMA, football, comics, finance, and building useful things**
 - 💛 Die-hard **Fenerbahçe** fan
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 02 // TECH INVENTORY           ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-02.png" width="100%" alt="Level 02: Tech Inventory" />
 
 ## 🛠️ Tech Stack
 
-### ⚙️ Languages & Backend
-
+**`01 / LANGUAGES & BACKEND`**  
 `Python` • `C#` • `.NET` • `ASP.NET Core` • `Node.js` • `Express.js` • `Java` • `FastAPI` • `REST APIs`
 
-### 🧩 Frontend & Mobile
-
+**`02 / FRONTEND & MOBILE`**  
 `React` • `React Native` • `Angular` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `Streamlit`
 
-### 🗄️ Databases & Messaging
-
+**`03 / DATABASES & MESSAGING`**  
 `SQL Server` • `MongoDB` • `PostgreSQL` • `Mongoose` • `Redis` • `RabbitMQ` • `BullMQ`
 
-### 🤖 AI / ML & Agentic Systems
-
+**`04 / AI, ML & AGENTS`**  
 `PyTorch` • `Hugging Face` • `LangGraph` • `LangChain` • `scikit-learn` • `Pandas` • `NumPy` • `XGBoost` • `LLM Agents` • `Multi-Agent Orchestration` • `Vision-Language Models` • `RAG` • `Recommendation Systems` • `Structured Extraction` • `LLM-as-a-Judge`
 
-### 🧰 Tools & Platforms
-
+**`05 / TOOLS & PLATFORMS`**  
 `Git` • `GitHub` • `Docker` • `AWS` • `Azure` • `Linux` • `CI/CD` • `Vercel` • `Railway` • `Postman` • `Swagger` • `uv`
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 03 // FEATURED QUESTS          ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-03.png" width="100%" alt="Level 03: Featured Projects" />
 
 ## 📌 Featured Projects
 
 ### 🔬 [ReproBot — Agentic AI for Scientific Reproducibility](https://github.com/EngincanVaran/ReproBot)
 
-**AI Research Contributor · inzva AI Projects #10**
-
-`[ RESEARCH QUEST ]` `[ MULTI-AGENT SYSTEM ]` `[ IN PROGRESS ]`
+**AI Research Contributor · inzva AI Projects #10**  
+`RESEARCH QUEST` · `MULTI-AGENT SYSTEM` · `IN PROGRESS`
 
 A multi-agent research system designed to reproduce and validate machine-learning experiments from scientific publications.
 
@@ -113,9 +70,8 @@ ReproBot coordinates four specialized agents through an orchestrated workflow:
 
 ### 🎭 ComArtist — Agentic AI Comic Generation
 
-**Independent Project · In Development**
-
-`[ CREATIVE QUEST ]` `[ MULTIMODAL AI ]` `[ IN DEVELOPMENT ]`
+**Independent Project · In Development**  
+`CREATIVE QUEST` · `MULTIMODAL AI` · `IN DEVELOPMENT`
 
 An ambitious multi-agent AI system designed to transform a high-level story idea into a complete, visually coherent comic chapter.
 
@@ -140,9 +96,8 @@ The planned architecture includes:
 
 ### ❇️ [Nummoria — AI-Powered Personal Finance](https://github.com/gokmeroz/nummoria)
 
-**Independent Project · [Live Platform](https://nummoria.com)**
-
-`[ FINTECH QUEST ]` `[ FULL-STACK ]` `[ LIVE PLATFORM ]`
+**Independent Project · [Live Platform](https://nummoria.com)**  
+`FINTECH QUEST` · `FULL-STACK` · `LIVE PLATFORM`
 
 Designed and developed a full-stack personal finance platform that transforms financial activity into personalized, actionable insights.
 
@@ -159,7 +114,7 @@ Designed and developed a full-stack personal finance platform that transforms fi
 
 ### 🕸️ [Spider-Man Comics Recommender](https://github.com/gokmeroz/spiderman-comics-recommender)
 
-`[ MACHINE LEARNING QUEST ]` `[ SPIDER-VERSE ]`
+`MACHINE LEARNING QUEST` · `SPIDER-VERSE`
 
 A machine-learning recommendation project exploring content-based filtering, user preference modeling, similarity scoring, and hybrid ranking approaches across Spider-Man comics.
 
@@ -169,7 +124,7 @@ A machine-learning recommendation project exploring content-based filtering, use
 
 ### 🤖 [JobPilot — Autopilot for Job Applications](https://github.com/gokmeroz/jobpilot-autopilot-for-job-applications)
 
-`[ AUTOMATION QUEST ]` `[ API INTEGRATION ]`
+`AUTOMATION QUEST` · `API INTEGRATION`
 
 An automated job-discovery pipeline designed to collect recently published roles, evaluate resume compatibility, apply eligibility filters, track applications, and generate structured reports.
 
@@ -179,23 +134,13 @@ An automated job-discovery pipeline designed to collect recently published roles
 
 ### ⚡ [RepoPulse](https://github.com/gokmeroz/RepoPulse)
 
-`[ BACKEND QUEST ]` `[ EVENT-DRIVEN ]`
+`BACKEND QUEST` · `EVENT-DRIVEN`
 
 An open-source, event-driven GitHub repository recommender that analyzes developers' interests and learning goals.
 
 **Technologies:** `FastAPI` `RabbitMQ` `Docker` `PostgreSQL` `NumPy` `PyTorch`
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 04 // ALLIES & RESEARCH        ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-04.png" width="100%" alt="Level 04: Collaborations and Research" />
 
 ## 🤝 Collaborations & Research
 
@@ -207,8 +152,6 @@ Collaborating on research into agentic scientific reproducibility, including pap
 
 The project explores the challenges of building AI systems that do more than generate plausible outputs: they must execute experiments, inspect evidence, identify failures, and iteratively improve their solutions.
 
----
-
 ### 👁️ [Eyehub — Dyslexia Detection Mobile Application](https://github.com/eyehub2/eyehub_web)
 
 **Backend Developer · TÜBİTAK Project 122E085**
@@ -217,39 +160,16 @@ Contributed to the backend of a research-based mobile application developed to s
 
 Built server-side functionality, database integrations, and cloud components using Node.js, JavaScript, MongoDB, AWS EC2, and AWS Lambda as part of an interdisciplinary research team.
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 05 // PLAYER STATISTICS        ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-05.png" width="100%" alt="Level 05: Player Stats" />
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true" alt="Mert's GitHub statistics" />
-
-<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mert's most used languages" />
-
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true" alt="Mert's GitHub statistics" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mert's most used languages" />
 </div>
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 06 // ACTIVE MISSIONS          ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-06.png" width="100%" alt="Level 06: Current Quests" />
 
 ## 🌱 Currently Focused On
 
@@ -261,17 +181,7 @@ Built server-side functionality, database integrations, and cloud components usi
 - 🐳 **Infrastructure:** Strengthening Docker, cloud deployment, observability, CI/CD, and production reliability skills.
 - 📈 **Computer Science:** Consistently practicing data structures, algorithms, and system design.
 
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════╗
-║             LEVEL 07 // COMMUNICATION HUB        ║
-╚══════════════════════════════════════════════════╝
-```
-
-</div>
+<img src="assets/section-07.png" width="100%" alt="Level 07: Communication Hub" />
 
 ## 💬 Let's Connect
 
@@ -280,22 +190,10 @@ Built server-side functionality, database integrations, and cloud components usi
 - 🐦 [X](https://x.com/gokmeroz_dev)
 - 🌍 **[gokmeroz.com](https://www.gokmeroz.com)**
 
----
-
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║                  GAME CONTINUES                  ║
-║                                                  ║
-║              BUILD. LEARN. SHIP.                 ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+<img src="assets/footer.png" width="100%" alt="Build useful things. Learn deeply. Ship relentlessly." />
 
-### ⭐ Build useful things. Learn deeply. Ship relentlessly.
-
-`[ GAME STATUS: GRINDING ]`
+`[ GAME STATUS: GRINDING ]` · `PRESS START TO BUILD`
 
 </div>
