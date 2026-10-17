@@ -2,7 +2,7 @@
 
 # 👾 Göktuğ Mert Özdoğan
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1100&color=22C55E&center=true&vCenter=true&width=800&height=46&lines=SOFTWARE+ENGINEER;APPLIED AI+%2B+ML+SYSTEMS;BUILD.+LEARN.+SHIP." alt="Animated pixel-style role titles" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1100&color=22C55E&center=true&vCenter=true&width=800&height=46&lines=SOFTWARE+ENGINEER;APPLIED+AI+%2B+ML+SYSTEMS;BUILD.+LEARN.+SHIP." alt="Animated pixel-style role titles" />
 
 **Software Engineer** building backend-driven products, AI systems, and autonomous agent workflows  
 Interested in **AI engineering, multi-agent systems, machine learning, fintech, and scalable software architecture**  
