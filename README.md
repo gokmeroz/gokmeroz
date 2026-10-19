@@ -114,16 +114,6 @@ Designed and developed a full-stack personal finance platform that transforms fi
 
 ---
 
-### 🕸️ [Spider-Man Comics Recommender](https://github.com/gokmeroz/spiderman-comics-recommender)
-
-`MACHINE LEARNING QUEST` · `SPIDER-VERSE`
-
-A machine-learning recommendation project exploring content-based filtering, user preference modeling, similarity scoring, and hybrid ranking approaches across Spider-Man comics.
-
-**Focus:** Recommendation systems, feature engineering, information retrieval, and personalized ranking.
-
----
-
 ### 🤖 [JobPilot — Autopilot for Job Applications](https://github.com/gokmeroz/jobpilot-autopilot-for-job-applications)
 
 `AUTOMATION QUEST` · `API INTEGRATION`
@@ -132,17 +122,6 @@ An automated job-discovery pipeline designed to collect recently published roles
 
 **Focus:** Workflow automation, API integration, data processing, and job-matching logic.
 
----
-
-### ⚡ [RepoPulse](https://github.com/gokmeroz/RepoPulse)
-
-`BACKEND QUEST` · `EVENT-DRIVEN`
-
-An open-source, event-driven GitHub repository recommender that analyzes developers' interests and learning goals.
-
-**Technologies:** `FastAPI` `RabbitMQ` `Docker` `PostgreSQL` `NumPy` `PyTorch`
-
----
 
 ## 🤝 Collaborations & Research
 
