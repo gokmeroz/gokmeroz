@@ -1,12 +1,15 @@
+
 <div align="center">
 
 # 👾 Göktuğ Mert Özdoğan
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1100&color=22C55E&center=true&vCenter=true&width=800&height=46&lines=SOFTWARE+ENGINEER;APPLIED+AI+%2B+ML+SYSTEMS;BUILD.+LEARN.+SHIP." alt="Animated pixel-style role titles" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1100&color=22C55E&center=true&vCenter=true&width=800&height=46&lines=AI+ENGINEERING;AGENTIC+AI+SYSTEMS;APPLIED+MACHINE+LEARNING;BUILD.+EVALUATE.+SHIP." alt="Animated pixel-style role titles" />
 
-**Software Engineer** building backend-driven products, AI systems, and autonomous agent workflows  
-Interested in **AI engineering, multi-agent systems, machine learning, fintech, and scalable software architecture**  
-From designing APIs and distributed systems to building agents that **reason, execute, evaluate, and improve** their work.
+**Software Engineer focused on AI Engineering, Applied ML & Agentic Systems.**
+
+Building intelligent systems that **reason, use tools, execute tasks, evaluate results, and improve iteratively.**
+
+`MULTI-AGENT AI` · `LLM ENGINEERING` · `MACHINE LEARNING` · `MULTIMODAL AI`
 
 [**`PORTFOLIO ↗`**](https://www.gokmeroz.com) · [**`PROJECTS ↓`**](#-featured-projects) · [**`CONTACT ↗`**](#-lets-connect)
 
@@ -14,37 +17,34 @@ From designing APIs and distributed systems to building agents that **reason, ex
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 Computer Engineering graduate from **Bahçeşehir University**
-- 💻 Software Engineer focused on **backend engineering, full-stack development, and applied AI**
-- 🔬 **AI Research Contributor at inzva AI Projects #10**, working on **ReproBot**, a multi-agent system for scientific reproducibility
-- 🎨 Developing **ComArtist**, an agentic AI system designed to transform story concepts into complete comic chapters
-- 🧠 Exploring **LLM agents, multimodal AI, agent orchestration, machine learning, and evaluation-driven AI systems**
-- 🔧 Main stack: **Python, C#/.NET, Node.js, TypeScript, React, React Native, SQL, and MongoDB**
-- 📊 Creator of **Nummoria**, an AI-powered personal finance platform tested with 1,000+ users
-- 🏗️ Interested in **distributed systems, high-throughput APIs, event-driven architecture, caching, and reliable infrastructure**
-- 🥋 Into **MMA, football, comics, finance, and building useful things**
-- 💛 Die-hard **Fenerbahçe** fan
+- 🎓 **Computer Engineering** graduate — Bahçeşehir University
+- 🔬 **AI Research Contributor** — inzva AI Projects #10 / ReproBot
+- 🎭 Building **ComArtist**, an autonomous multi-agent comic generation system
+- 📊 Created **Nummoria**, an AI-fintech platform tested with **1,000+ users**
+- 🤖 Interested in **LLM agents, multi-agent orchestration, multimodal AI, ML pipelines, and evaluation**
+- ⚡ Engineering focus: **reliable, measurable, production-oriented AI systems**
+- 🥋 MMA, football, comics | 💛 **Fenerbahçe** 💙
 
 ---
 
 ## 🛠️ Tech Stack
 
-**`01 / LANGUAGES & BACKEND`**  
-`Python` • `C#` • `.NET` • `ASP.NET Core` • `Node.js` • `Express.js` • `Java` • `FastAPI` • `REST APIs`
+**`01 / AI, ML & DEEP LEARNING`**  
+`PyTorch` • `Hugging Face` • `scikit-learn` • `XGBoost` • `Pandas` • `NumPy` • `Transformers` • `Recommendation Systems`
 
-**`02 / FRONTEND & MOBILE`**  
-`React` • `React Native` • `Angular` • `TypeScript` • `JavaScript` • `Tailwind CSS` • `Streamlit`
+**`02 / LLMs & AGENTIC AI`**  
+`LangGraph` • `LangChain` • `LLM APIs` • `Multi-Agent Systems` • `RAG` • `VLMs` • `Tool Calling` • `Structured Extraction` • `LLM-as-a-Judge`
 
-**`03 / DATABASES & MESSAGING`**  
-`SQL Server` • `MongoDB` • `PostgreSQL` • `Mongoose` • `Redis` • `RabbitMQ` • `BullMQ`
+**`03 / SOFTWARE ENGINEERING`**  
+`Python` • `FastAPI` • `Node.js` • `C#/.NET` • `TypeScript` • `React` • `React Native` • `REST APIs`
 
-**`04 / AI, ML & AGENTS`**  
-`PyTorch` • `Hugging Face` • `LangGraph` • `LangChain` • `scikit-learn` • `Pandas` • `NumPy` • `XGBoost` • `LLM Agents` • `Multi-Agent Orchestration` • `Vision-Language Models` • `RAG` • `Recommendation Systems` • `Structured Extraction` • `LLM-as-a-Judge`
+**`04 / DATA & INFRASTRUCTURE`**  
+`MongoDB` • `PostgreSQL` • `SQL Server` • `Redis` • `RabbitMQ` • `BullMQ` • `Docker` • `AWS` • `Azure`
 
-**`05 / TOOLS & PLATFORMS`**  
-`Git` • `GitHub` • `Docker` • `AWS` • `Azure` • `Linux` • `CI/CD` • `Vercel` • `Railway` • `Postman` • `Swagger` • `uv`
+**`05 / DEVELOPMENT & DEPLOYMENT`**  
+`Git/GitHub` • `Linux` • `CI/CD` • `Vercel` • `Railway` • `Streamlit` • `uv` • `Postman`
 
 ---
 
@@ -53,130 +53,106 @@ From designing APIs and distributed systems to building agents that **reason, ex
 ### 🔬 [ReproBot — Agentic AI for Scientific Reproducibility](https://github.com/EngincanVaran/ReproBot)
 
 **AI Research Contributor · inzva AI Projects #10**  
-`RESEARCH QUEST` · `MULTI-AGENT SYSTEM` · `IN PROGRESS`
+`RESEARCH QUEST` · `MULTI-AGENT AI` · `IN PROGRESS`
 
-A multi-agent research system designed to reproduce and validate machine-learning experiments from scientific publications.
+A multi-agent AI system designed to **reproduce, execute, and verify machine-learning experiments** from scientific papers.
 
-ReproBot coordinates four specialized agents through an orchestrated workflow:
+**Agent Architecture:**
+- 📖 **Reader:** Extracts methodologies and experimental specifications using LLMs, VLMs, and document understanding.
+- 💻 **Coder:** Translates research specifications into executable ML code.
+- 🐳 **Runner:** Executes experiments in isolated Docker environments.
+- 🔍 **Critic:** Evaluates results, verifies claims, and guides iterative improvements.
 
-- **Reader Agent:** Analyzes research papers, extracts experimental configurations, and produces structured specifications using document-processing tools, LLMs, and vision-language models.
-- **Coder Agent:** Translates extracted methodologies into executable machine-learning experiments.
-- **Runner Agent:** Executes experiments in isolated Docker environments and collects logs, metrics, and artifacts.
-- **Critic Agent:** Evaluates experimental results against published claims, identifies reproducibility gaps, and provides feedback for iterative refinement.
+**Research Focus:** Agent orchestration, Critic–Coder feedback loops, scientific claim verification, reproducibility evaluation.
 
-**Current focus:** Critic–Coder feedback loops, claim verification, reproducibility evaluation, and improving the reliability of agent-generated experiments.
-
-**Technologies:** `Python` `LangGraph` `LangChain` `Docker` `PyTorch` `Hugging Face` `LLMs` `VLMs` `Structured Extraction`
+**Stack:** `Python` `LangGraph` `LangChain` `PyTorch` `Docker` `Hugging Face` `LLMs` `VLMs`
 
 ---
 
-### 🎭 ComArtist — Agentic AI Comic Generation
+### 🎭 ComArtist — Autonomous Multi-Agent Comic Generation
 
-**Independent Project · In Development**  
-`CREATIVE QUEST` · `MULTIMODAL AI` · `IN DEVELOPMENT`
+**Independent AI Project · In Development**  
+`CREATIVE QUEST` · `MULTIMODAL AI` · `AGENTIC WORKFLOWS`
 
-An ambitious multi-agent AI system designed to transform a high-level story idea into a complete, visually coherent comic chapter.
+An agentic AI system that transforms **high-level story concepts into complete, visually coherent comic chapters**.
 
-Rather than treating comic generation as a single image-generation task, ComArtist approaches it as an **autonomous creative production workflow**, inspired by the specialized roles involved in professional comic publishing.
+**Planned Agent Architecture:**
+- ✍️ **Narrative Agents:** Story development, dialogue, character arcs.
+- 🎬 **Planning Agents:** Comic scripts, panel layouts, visual direction.
+- 🎨 **Visual Agents:** Artwork generation and character consistency.
+- 🔍 **Critic Agents:** Multimodal evaluation and iterative revision.
+- 💬 **Lettering Agents:** Speech balloons, dialogue, page assembly.
+- 🧠 **Memory Systems:** Persistent lore, continuity, chapter-level evaluation.
 
-The planned architecture includes:
+**Engineering Focus:** Multi-agent coordination, multimodal reasoning, persistent memory, iterative optimization, automated quality assessment.
 
-- **Story & Narrative Agents:** Develop plots, character arcs, dialogue, and narrative structure.
-- **Script & Panel Planning Agents:** Translate stories into panel-by-panel scripts, layouts, compositions, and visual directions.
-- **Visual Generation Agents:** Generate comic artwork while maintaining character identities, stylistic consistency, and scene continuity.
-- **Critic & Revision Agents:** Use multimodal evaluation to identify narrative and visual inconsistencies and guide iterative improvements.
-- **Lettering & Layout Agents:** Assemble dialogue, speech balloons, artwork, and panel arrangements into comic pages.
-- **Continuity & Evaluation Systems:** Maintain persistent lore and character context while assessing chapter-level coherence and quality.
-
-**Engineering focus:** Multi-agent orchestration, multimodal reasoning, long-term memory, structured inter-agent communication, iterative refinement, and autonomous quality evaluation.
-
-**Planned technologies:** `Python` `LangGraph` `Hugging Face` `LLMs` `Vision-Language Models` `Image Generation` `Streamlit`
-
-*The goal: an AI-powered comic production pipeline where specialized agents collaborate like a creative team.*
+**Planned Stack:** `Python` `LangGraph` `Hugging Face` `LLMs` `VLMs` `Image Generation` `Streamlit`
 
 ---
 
 ### ❇️ [Nummoria — AI-Powered Personal Finance](https://github.com/gokmeroz/nummoria)
 
 **Independent Project · [Live Platform](https://nummoria.com)**  
-`FINTECH QUEST` · `FULL-STACK` · `LIVE PLATFORM`
+`FINTECH QUEST` · `APPLIED AI` · `LIVE`
 
-Designed and developed a full-stack personal finance platform that transforms financial activity into personalized, actionable insights.
+An AI-powered personal finance platform tested with **1,000+ users**.
 
-- Built web and mobile experiences with React and React Native.
-- Developed backend APIs and authentication workflows using Node.js and MongoDB.
-- Integrated AI-powered financial assistance and receipt-processing capabilities.
-- Implemented background processing and asynchronous workflows using Redis and BullMQ.
-- Tested the platform with **more than 1,000 users**.
-- Exploring a stronger ML-driven foundation for transaction understanding, categorization, and financial behavior modeling.
+- 🤖 Integrated **LLM-powered financial assistance**.
+- 🧾 Built AI-assisted receipt processing and extraction workflows.
+- 📊 Exploring **ML-based transaction classification, categorization, and financial behavior modeling**.
+- ⚙️ Developed web/mobile applications, APIs, and asynchronous processing.
 
-**Technologies:** `Node.js` `Express.js` `React` `React Native` `MongoDB` `Redis` `BullMQ` `LLM APIs`
+**Stack:** `LLM APIs` `Node.js` `React` `React Native` `MongoDB` `Redis` `BullMQ`
 
 ---
 
-### 🤖 [JobPilot — Autopilot for Job Applications](https://github.com/gokmeroz/jobpilot-autopilot-for-job-applications)
+## 🤝 Research & Collaborations
 
-`AUTOMATION QUEST` · `API INTEGRATION`
+### 👁️ [Eyehub — Dyslexia Detection Research](https://github.com/eyehub2/eyehub_web)
 
-An automated job-discovery pipeline designed to collect recently published roles, evaluate resume compatibility, apply eligibility filters, track applications, and generate structured reports.
+**Backend Developer · TÜBİTAK 122E085**
 
-**Focus:** Workflow automation, API integration, data processing, and job-matching logic.
+Contributed backend services, data integrations, and AWS infrastructure to a research-based dyslexia detection application.
 
-
-## 🤝 Collaborations & Research
-
-### 🔬 [ReproBot — inzva AI Projects #10](https://github.com/EngincanVaran/ReproBot)
-
-**AI Research Contributor**
-
-Collaborating on research into agentic scientific reproducibility, including paper interpretation, structured methodology extraction, automated experiment execution, and evaluation against published results.
-
-The project explores the challenges of building AI systems that do more than generate plausible outputs: they must execute experiments, inspect evidence, identify failures, and iteratively improve their solutions.
-
-### 👁️ [Eyehub — Dyslexia Detection Mobile Application](https://github.com/eyehub2/eyehub_web)
-
-**Backend Developer · TÜBİTAK Project 122E085**
-
-Contributed to the backend of a research-based mobile application developed to support dyslexia detection in children.
-
-Built server-side functionality, database integrations, and cloud components using Node.js, JavaScript, MongoDB, AWS EC2, and AWS Lambda as part of an interdisciplinary research team.
+**Stack:** `Node.js` `MongoDB` `AWS EC2` `AWS Lambda`
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true" alt="Mert's GitHub statistics" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mert's most used languages" />
+
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=gokmeroz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gokmeroz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+
 </div>
 
 ---
 
-## 🌱 Currently Focused On
+## 🌱 Current Quests
 
-- 🔬 **ReproBot:** Developing and refining agentic scientific reproducibility workflows, with an emphasis on evaluation, verification, and Critic–Coder iteration.
-- 🎭 **ComArtist:** Designing a multimodal agent architecture for autonomous comic production, creative collaboration, and visual consistency.
-- 🧠 **AI/ML:** Deepening knowledge of neural networks, transformers, LLM systems, and practical machine-learning engineering.
-- ⚙️ **Backend Engineering:** Designing maintainable APIs, distributed workflows, scalable data models, and event-driven systems.
-- 📊 **Nummoria:** Exploring ML-based transaction understanding, intelligent categorization, and personalized financial insights.
-- 🐳 **Infrastructure:** Strengthening Docker, cloud deployment, observability, CI/CD, and production reliability skills.
-- 📈 **Computer Science:** Consistently practicing data structures, algorithms, and system design.
+- 🔬 **ReproBot:** Scientific reproducibility, agent evaluation, Critic–Coder loops.
+- 🎭 **ComArtist:** Multimodal generation, autonomous workflows, agent memory.
+- 🧠 **Machine Learning:** Deep learning, neural networks, transformers, model evaluation.
+- 🤖 **LLM Engineering:** RAG, tool-use, orchestration, structured outputs, reliability.
+- 📊 **Nummoria:** ML-driven transaction intelligence and financial insights.
+- 🐳 **AI Infrastructure:** Containerization, deployment, observability, scalable inference.
+- 📈 **Fundamentals:** Algorithms, system design, and ML engineering principles.
 
 ---
 
 ## 💬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan)
-- 📧 **[goekmeroz@gmail.com](mailto:goekmeroz@gmail.com)**
-- 🐦 [X](https://x.com/gokmeroz_dev)
-- 🌍 **[gokmeroz.com](https://www.gokmeroz.com)**
+💼 [LinkedIn](https://www.linkedin.com/in/goktugmertozdogan) · 📧 [Email](mailto:goekmeroz@gmail.com) · 🐦 [X](https://x.com/gokmeroz_dev) · 🌍 [Portfolio](https://www.gokmeroz.com)
 
 ---
 
 <div align="center">
 
-`[ GAME STATUS: BUILDING ]`
+`[ PLAYER CLASS: AI ENGINEER ]`
 
-**Build useful things. Learn deeply. Ship relentlessly.**
+`[ CURRENT QUEST: BUILD INTELLIGENT SYSTEMS ]`
+
+**Build. Evaluate. Improve. Ship.**
 
 </div>
