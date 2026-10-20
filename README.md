@@ -22,7 +22,7 @@ Building intelligent systems that **reason, use tools, execute tasks, evaluate r
 - 🎓 **Computer Engineering** graduate — Bahçeşehir University
 - 🔬 **AI Research Contributor** — inzva AI Projects #10 / ReproBot
 - 🎭 Building **ComArtist**, an autonomous multi-agent comic generation system
-- 📊 Created **Nummoria**, an AI-fintech platform tested with **1,000+ users**
+- 📊 Created **Nummoria**, an AI-fintech platform tested with **1,250+ users**
 - 🤖 Interested in **LLM agents, multi-agent orchestration, multimodal AI, ML pipelines, and evaluation**
 - ⚡ Engineering focus: **reliable, measurable, production-oriented AI systems**
 - 🥋 MMA, football, comics | 💛 **Fenerbahçe** 💙
@@ -95,7 +95,7 @@ An agentic AI system that transforms **high-level story concepts into complete, 
 **Independent Project · [Live Platform](https://nummoria.com)**  
 `FINTECH QUEST` · `APPLIED AI` · `LIVE`
 
-An AI-powered personal finance platform tested with **1,000+ users**.
+An AI-powered personal finance platform tested with **1,250+ users**.
 
 - 🤖 Integrated **LLM-powered financial assistance**.
 - 🧾 Built AI-assisted receipt processing and extraction workflows.
